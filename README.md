@@ -1,2 +1,2 @@
 # tekvizion
-angular project
+angular project rishad
